@@ -101,7 +101,7 @@ include("template/header.php");
             <td><input type="submit" value="Daftar" class="btn btn-primary btn-block"></td>
           </div>
         </form>
-        <p class="text-center"><a href="login.php">Sudah punya akun ? Login</a></p>
+        <p class="text-center"><a href="login.php">Sudah Punya Akun ? Login</a></p>
       </div>
 
     </div>
