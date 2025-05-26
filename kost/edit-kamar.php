@@ -85,7 +85,7 @@ $o = explode(', ', $d['fasilitas_kamar']);
                 <!-- tutup fasilitas kamar  -->
                 <div class="row">
                     <div class="col">
-                        <button name="ubah_kamar" type="submit" class="btn-primary">Simpan Kamar</button>
+                        <button name="ubah_kamar" type="submit" class="btn-primary">Menyimpan Kamar</button>
                     </div>
                 </div>
             </form>
