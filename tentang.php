@@ -6,8 +6,7 @@ include 'template/header.php'
 
     <h5>Tentang Easy kos</h5>
     <hr>
-    <p>Simkos adalah website yang menyajikan informasi kamar kost dengan fasilitas kost, harga dan foto kamar yang sedetail mungkin
-        seperti aslinya, anda bisa mendaftar sebagai pencari kost ataupun penyedia kost-kostsan
+    <p>Simkos merupakan platform website yang menyediakan informasi lengkap mengenai kamar kost, termasuk fasilitas, harga, dan foto kamar secara detail dan sesuai kenyataan. Pengguna dapat mendaftar sebagai pencari kost maupun sebagai pemilik yang ingin menawarkan kost-kostan mereka.
     </p>
 </div>
 
