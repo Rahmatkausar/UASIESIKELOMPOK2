@@ -19,7 +19,7 @@ $data = mysqli_query($koneksi, $query);
 </style>
 
 <div class="container">
-  <h3>My Wishlist</h3>
+  <h3>Daftar Keinginan</h3>
   <hr>
   <div class="row">
 
