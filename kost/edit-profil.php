@@ -37,7 +37,7 @@ $d = mysqli_fetch_array($data);
           <div class="col-sm-8"><input type="text" name="pekerjaan" id="pekerjaan" class="form-control" value="<?php echo $d['pekerjaan']; ?>"></div>
         </div>
         <div class="form-group row">
-          <div class="col"><label for="jenis_kelamin">Jenis kelamin :</label></div>
+          <div class="col"><label for="jenis_kelamin">Jenis Kelamin :</label></div>
           <div class="col-sm-8">
             <select required name="jenis_kelamin" id="jenis_kelamin" class="form-control">
               <option selected hidden value=" <?php echo $d['jenis_kelamin']; ?>"><?php echo $d['jenis_kelamin']; ?> </option>
