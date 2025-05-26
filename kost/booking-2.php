@@ -118,7 +118,7 @@ if (isset($_POST['order'])) {
         <!-- tanggal keluar  -->
         <div class="col">
           <div class="row">
-            <div class="col">Tanggal Keluar</div>
+            <div class="col">Tanggal Habis Penyewaan</div>
           </div>
           <div class="row">
             <div class="col"><input disabled type="date" name="tanggal_keluar" id="tanggal_keluar" value="<?php echo $tanggal_keluar ?>" class="form-control"></div>
